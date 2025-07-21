@@ -1,0 +1,70 @@
+[
+    {
+        "title": "gym",
+        "completed": true
+    },
+    {
+        "title": "coding",
+        "completed": true
+    },
+    {
+        "title": "chess",
+        "completed": false
+    },
+    {
+        "title": "studying",
+        "completed": false
+    },
+    {
+        "title": "Reading",
+        "completed": false
+    },
+    {
+        "title": "Writing",
+        "completed": false
+    },
+    {
+        "title": "Running",
+        "completed": false
+    },
+    {
+        "title": "Walking",
+        "completed": true
+    },
+    {
+        "title": "Gym",
+        "completed": true
+    },
+    {
+        "title": "Music",
+        "completed": true
+    },
+    {
+        "title": "gym",
+        "completed": false
+    },
+    {
+        "title": "10k steps",
+        "completed": true
+    },
+    {
+        "title": "coding",
+        "completed": true
+    },
+    {
+        "title": "music",
+        "completed": true
+    },
+    {
+        "title": "gym",
+        "completed": true
+    },
+    {
+        "title": "music",
+        "completed": true
+    },
+    {
+        "title": "watching a movie",
+        "completed": false
+    }
+]
